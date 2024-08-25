@@ -93,7 +93,7 @@
 
 47. git rebase : Three tasks are performed by git rebase (1).Move all changes to master which are not in origin/master to a temporary area.(2).Run all origin master commits. (3).Run all commits in the temporary area on top of our master one at a time, so it avoids merge commits.
 
-48. git -version : Used to show the current version of git.
+48. git --version : Used to show the current version of git.
 
 49. mkdir store : Create a directory if not create already
 
