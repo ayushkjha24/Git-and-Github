@@ -38,9 +38,9 @@
 
 20. git commit -a -m "Readme.md" : To add any of our tracked files to the staging area and commit them by providing a message to remember.
 
-21. git reset -soft HEAD^ : To undo the last commit and bring the file to the staging area.
+21. git reset --soft HEAD^ : To undo the last commit and bring the file to the staging area.
 
-22. git reset -hard HEAD^ : To undo the last commit and remove the file from the staging area as well(In case we went horribly wrong).
+22. git reset --hard HEAD^ : To undo the last commit and remove the file from the staging area as well(In case we went horribly wrong).
 
 23. git reset -hard HEAD^^ : To undo last 2 commits and all changes.
 
